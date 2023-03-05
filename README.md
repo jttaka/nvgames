@@ -1,2 +1,3 @@
 # nvgames
-Game engine for Nvim.
+Game engine for Nvim as a plugin!!!
+
